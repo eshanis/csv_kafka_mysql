@@ -1,0 +1,11 @@
+2023-07-25 16:06:44,817 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-07-25 17:01:54,288 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-07-25 17:04:10,866 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-07-25 17:06:08,837 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-07-25 17:08:12,836 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-07-25 17:10:13,044 ERROR:An error occurred while subscribing topic to mySQL: list index out of range
+2023-08-01 15:32:04,285 ERROR:An error occurred while reading the config file: 'Main' object has no attribute 'keys'
+2023-08-01 15:32:47,100 ERROR:An error occurred while reading the config file: 'Main' object has no attribute 'keys'
+2023-08-01 15:33:41,123 ERROR:An error occurred while reading the config file: 'Main' object has no attribute 'keys'
+2023-08-01 15:59:32,885 ERROR:An error occurred while reading the config file: KafkaProducer.__init__() missing 1 required positional argument: 'keys'
+2023-08-01 16:00:07,300 ERROR:An error occurred while reading the config file: 'Main' object has no attribute 'allkeys'
